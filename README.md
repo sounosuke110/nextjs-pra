@@ -1,1 +1,1 @@
-# nextjs-pra
+# nextjs-practice
